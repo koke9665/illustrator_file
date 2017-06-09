@@ -1,2 +1,2 @@
-# shader_study
-シェーダー勉強用
+# illustrator_file
+イラストレーターの作品集
